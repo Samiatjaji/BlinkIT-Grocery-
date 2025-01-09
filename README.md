@@ -34,11 +34,12 @@ I created a new parameter (field) as well named "Metric" to provide more informa
 
 ![BlinkIt Dashboard](https://github.com/user-attachments/assets/070816e3-0bd2-4ab4-a7e3-37490a31c42a)
 
-This report contains a single page. You can interact with the report [here]()
+This report contains a single page. You can interact with the report [here](https://github.com/Samiatjaji/BlinkIT-Grocery-/blob/main/BLINKIT.pbix)
 
 ## Analysis
 - KPIs
 Ffffg
+
 ![Primary KPI](https://github.com/user-attachments/assets/6f123723-6b47-48ca-a6d1-6f5852ce20eb)
 
 - Total Sales by Fat content
