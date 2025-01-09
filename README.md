@@ -51,6 +51,7 @@ Average Rating: 3.9, indicating a generally positive customer perception of the 
 ![Primary KPI](https://github.com/user-attachments/assets/6f123723-6b47-48ca-a6d1-6f5852ce20eb)
 
 - Total Sales by Fat content
+  
 The chart reveals that "Regular" products ($776.32K)  significantly outsell "Low Fat" products (425.36K). The larger segment of the pie chart representing "Regular" products indicates a higher proportion of sales generated from this category. 
 
 ![Fat content](https://github.com/user-attachments/assets/46cacffd-6994-4b42-824a-2ec175ddf0c0)
