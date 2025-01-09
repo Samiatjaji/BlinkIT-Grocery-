@@ -32,7 +32,8 @@ I created a new parameter (field) as well named "Metric" to provide more informa
 
 ## Visualization
 
-![BlinkIt Dashboard](https://github.com/user-attachments/assets/070816e3-0bd2-4ab4-a7e3-37490a31c42a)
+![Blinkit Dashboard](https://github.com/user-attachments/assets/b277c093-016d-4f61-b1be-7dc1bba66ccd)
+
 
 This report contains a single page. You can interact with the report [here](https://github.com/Samiatjaji/BlinkIT-Grocery-/blob/main/BLINKIT.pbix)
 
