@@ -41,8 +41,11 @@ This report contains a single page. You can interact with the report [here](http
 - KPIs
   
 Total Sales: $1.20M, indicating a healthy sales volume and suggests a healthy level of business activity.
-Average Sales: $141 per item, suggesting a moderate selling price and that the price is competitive 
+
+Average Sales: $141 per item, suggesting a moderate selling price and that the price is competitive.
+
 Number of Items Sold: 8,523 items sold, contributing to the overall sales volume.
+
 Average Rating: 3.9, indicating a generally positive customer perception of the products.
 
 ![Primary KPI](https://github.com/user-attachments/assets/6f123723-6b47-48ca-a6d1-6f5852ce20eb)
