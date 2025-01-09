@@ -48,11 +48,13 @@ Ffffg
 
 - Total Sales by item type
 
-![item type](https://github.com/user-attachments/assets/650ddcfc-047a-43da-b140-10f76c235b6d)
+![item type](https://github.com/user-attachments/assets/c3a960ea-b8d8-4817-886c-ebe37680390a)
+
 
 - Fat content by outlet for total sales
 
-![fat by outlet](https://github.com/user-attachments/assets/c05cc156-9f2d-4193-a71a-ffce3554e0dd)
+![Fat by outlet](https://github.com/user-attachments/assets/35a6735c-56a3-486f-ab27-7ce2b7d6fb09)
+
 
 - Total sales by outlet establishment 
 
