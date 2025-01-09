@@ -27,38 +27,47 @@ Charts Requirements
 ## Data Cleaning 
 The data cleaning was done in PowerBI where I checked for errors, missing values and filtered where necessary.
 I created a new parameter (field) as well named "Metric" to provide more information for the charts.
-PICTURE
 
+![Metrics](https://github.com/user-attachments/assets/8e049642-e6e1-479c-97d7-98a9ce47dd31)
 
 ## Visualization
-PICTURE
-This report contains a single page. You can interact with the report here
-LINK
+
+![BlinkIt Dashboard](https://github.com/user-attachments/assets/070816e3-0bd2-4ab4-a7e3-37490a31c42a)
+
+This report contains a single page. You can interact with the report [here]()
 
 ## Analysis
 - KPIs
 Ffffg
+![Primary KPI](https://github.com/user-attachments/assets/6f123723-6b47-48ca-a6d1-6f5852ce20eb)
 
 - Total Sales by Fat content
 
+![Fat content](https://github.com/user-attachments/assets/46cacffd-6994-4b42-824a-2ec175ddf0c0)
 
 - Total Sales by item type
 
+![item type](https://github.com/user-attachments/assets/650ddcfc-047a-43da-b140-10f76c235b6d)
 
 - Fat content by outlet for total sales
 
+![fat by outlet](https://github.com/user-attachments/assets/c05cc156-9f2d-4193-a71a-ffce3554e0dd)
 
 - Total sales by outlet establishment 
 
+![outlet establishment](https://github.com/user-attachments/assets/bf356069-422c-4e3e-938a-e97d1d923b05)
 
 - Sales by outlet size
 
+![outlet size](https://github.com/user-attachments/assets/1ae23698-35fc-4238-b8be-0dbeb9ec0782)
 
 - Sales by Outlet Location 
 
+![outlet location](https://github.com/user-attachments/assets/02788b6d-26ad-422a-9b02-b92635d7738d)
 
 - All metrics by outlet type
 
+![outlet type](https://github.com/user-attachments/assets/dcb0627b-3cea-4bc6-917c-cbbeb8a51f51)
 
 
 
