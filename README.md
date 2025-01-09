@@ -116,4 +116,3 @@ Supermarket Type 1 has the highest total sales ($787.55K) and the number of item
 
 
 
-## Insights
